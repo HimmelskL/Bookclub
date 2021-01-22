@@ -1,0 +1,49 @@
+body{
+    font-family: 'Titillium Web', sans-serif;
+    color:#09165c;
+}
+.navbar{
+    background-color: white;
+    box-shadow: 0 2px 4px 0 #00517A;
+    min-height: 100px;
+}
+
+.navbar-brand{
+    font-size: 40px;
+    color: darkblue;
+}
+
+.logo-brand{
+    min-width: 100px;
+    max-width: 110px;
+}
+.container-fluid{
+    padding-top: 40px;
+    padding-left: 80px;
+    padding-bottom: 30px;
+    display: inline-block;
+    background-color: turquoise;
+}
+
+.section.cat {
+	padding-bottom: 0;
+}
+.icon {
+	margin: 0 10px;
+  
+}
+
+#bolita{
+    min-width: 100px;
+    max-width: 660px;
+    max-height: 495px;
+}
+#reloj{
+    max-width: 247px;
+    max-height: 400px;
+}
+#jane{
+    max-width: 247px;
+    max-height: 400px;
+}
+
